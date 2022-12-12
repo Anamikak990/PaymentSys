@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632086495912",
+    "project_id": "bus-pass-d58a3",
+    "storage_bucket": "bus-pass-d58a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632086495912:android:1203ac1d0711467d1ab89d",
+        "android_client_info": {
+          "package_name": "com.example.androidver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632086495912-hmv3u3qtv8mkdqusj4jv2266u1psqrg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidver",
+            "certificate_hash": "601a0d0c3e1fe08decf07ac35496b2b64839f907"
+          }
+        },
+        {
+          "client_id": "632086495912-eqns72jr3rk54na1uimhjjlrlusabq6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAynlPcUk3tN3Xn1nEKsfB8X5OkhcrEgzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632086495912-eqns72jr3rk54na1uimhjjlrlusabq6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
